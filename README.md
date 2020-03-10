@@ -1,3 +1,3 @@
 # README
 
-// Todo:  [5.8 Listing all articles](https://guides.rubyonrails.org/getting_started.html#listing-all-articles)
+// Todo:  [5.10 Adding Some Validation](https://guides.rubyonrails.org/getting_started.html#adding-some-validation)
